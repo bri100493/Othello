@@ -1,2 +1,0 @@
-# Othello
-Created with CodeSandbox
